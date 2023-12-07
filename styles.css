@@ -1,0 +1,107 @@
+body{
+    background-color: #e2e1df;
+}
+
+#portrait2{
+    width: 500px;
+}
+
+#fourseasons{
+    width: 500px;
+}
+
+#mindmap{
+    width: 1200px;
+    height: 800px;
+}
+
+.container-fluid{
+    background-color: #e2c6c2;
+}
+.navbar-brand{
+    color: black;
+}
+
+.navtext{
+    color: black;
+}
+
+.navbar-text{
+    color: Black;
+}
+
+.container{
+    display: flex;
+    column-gap: 20px;
+    background-color: #d0c9ca;
+}
+
+#home{
+    margin-bottom: 75px;
+    margin-top: 40px;
+}
+
+.home-align{
+    margin-left: 15px;
+    margin-right: 15px;
+    width: 500px;
+}
+
+#home-text{
+    color: ;
+}
+
+#home-picture{
+    background-color: #d0c9ca;
+}
+
+#coursework{
+    margin-bottom: 75px;
+}
+
+.container-experience{
+    display: flex;
+    column-gap: 20px;
+    background-color: #d0c9ca;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 75px;
+}
+
+.container-passions-text{
+    display: flex;
+    column-gap: 20px;
+    background-color: #d0c9ca;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 75px;
+}
+
+.experience-text{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+#box2{
+    color: black;
+}
+
+.container-passions{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#passions-text{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#tct{
+    margin-top: 20px;
+}
